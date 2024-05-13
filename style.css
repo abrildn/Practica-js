@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(83, 47, 94);
+    color: rgb(224, 224, 171);
+    display: grid;
+    justify-content: center;
+}
+
+#main-title {
+    text-align: center;
+}
+
+.container {
+    display: grid;
+    justify-content: center;
+    padding: 10px;
+}
